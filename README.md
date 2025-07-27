@@ -1,2 +1,2 @@
 # ai_assistant
-personal ai assistant
+Personal AI Assistant
